@@ -8,7 +8,7 @@
         <div>
           <h4>{{ gamename }}</h4>
           <div class="creator-badge">
-            <img class="avatar" src="../assets/images/gamelogo/nft_avatar.png" alt="" />
+            <img class="avatar" src="/images/gamelogo/nft_avatar.png" alt="" />
             <h5 class="creatorname">{{ creatorname }}</h5>
             <!-- <span> |</span> -->
 

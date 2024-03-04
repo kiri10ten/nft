@@ -17,11 +17,6 @@
 <img src="/images/userprofile/about_tab04.png">
 <img src="/images/userprofile/about_tab05.png">
 <img src="/images/userprofile/about_tab06.png">
-
-
-
-
-
 </div>
 
 </div>
