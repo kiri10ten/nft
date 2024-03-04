@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@font-face {
+    font-family: berlin-sans;
+    src: url("./fonts/BRLNSR.woff");
+}
+
+*{
+
+    font-family: Barlow;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    font-family:berlin-sans ;
+    text-shadow: -1px 5px 0 rgba(69,248,130,.66);
+}
+
+
+h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+  h4 {
+    font-size: 1.5rem;
+  }
+  h5 {
+    font-size: 1.25rem;
+  }
+  h6 {
+    font-size: 1rem;
+  }
+
+
+.logo {
+
+max-width: 177px;
+
+
+}
+.nav{
+    font-size: 15px;
+    text-decoration: none;
+    line-height: 1;
+    position: relative;
+    text-transform:uppercase;
+    z-index: 1;
+    letter-spacing: .8px;
+    padding: 38px 23px;
+    color: #fff;
+    font-weight: 800;
+    position: relative;
+    content: fit-content;
+}
+
+.nav:hover{
+    color: #1b9fc7;
+}
+
+
+
+.nav-wrapper{
+    display: flex;
+    
+}
+
+.search{
+
+    text-decoration: none;
+    border: none;
+}
+
+.sign-button{
+background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='157' height='48' fill='none'%3E%3Cg clip-path='url(%23a)' clip-rule='evenodd'%3E%3Cpath fill='%2345F882' fill-rule='evenodd' d='m131.75 2 24 23-24 22 17-23zM25 1 1 24.511 25 47 8 23.489z'/%3E%3Cpath stroke='%2345F882' stroke-width='1.5' d='m24.75 1-24 24 23 22h108l24-22-24-24z'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='a'%3E%3Cpath fill='%23fff' d='M0 0h156.5v47.5H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E");
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+text-decoration: none;
+justify-content: center;
+letter-spacing: 0.8px;
+min-height: 48px;
+min-width: 157px;
+overflow: hidden;
+padding: 10px 20px;
+position: relative;
+text-align: center;
+text-transform: uppercase;
+z-index: 1;
+align-items: center;
+display:inline-flex;
+
+}
+
+.sign-button:hover{
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='157' height='48' fill='%2345F882'%3E%3Cg clip-path='url(%23a)' clip-rule='evenodd'%3E%3Cpath fill='%2345F882' fill-rule='evenodd' d='m131.75 2 24 23-24 22 17-23zM25 1 1 24.511 25 47 8 23.489z'/%3E%3Cpath stroke='%2345F882' stroke-width='1.5' d='m24.75 1-24 24 23 22h108l24-22-24-24z'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='a'%3E%3Cpath fill='%23fff' d='M0 0h156.5v47.5H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E");
+    
+}
+
+h6{
+    background-image: url("./images/text_gradient_bg.png");
+}
+
+
+.yellow-button{
+
+  background-color: #ffbe18;
+  border-radius: 6px;
+  font-size: 18px;
+  line-height: 1;
+  margin-left: auto;
+  text-transform: capitalize;
+  color: black;
+  border:none
+}
