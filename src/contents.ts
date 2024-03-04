@@ -9,15 +9,18 @@ export const teamdata = [{
   name: "Tanu Mark",
   designation: "Developer",
   imagesource: '/images/userimage/team02.png'
+
 },
 {
   name: "Thompson scot",
   designation: "Shakh Danial",
   imagesource: '/images/userimage/team03.png'
+
 },
 {
   name: "Shakh Dawal",
   designation: "Crypto Advisor",
+
   imagesource: '/images/userimage/team04.png'
 }
 ]
