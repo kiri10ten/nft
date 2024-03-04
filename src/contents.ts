@@ -65,13 +65,14 @@ export const trendingcarddata =[
   {
     trendingname:"Crypto Max",
     price:"1.002 ETH",
-    imagelink:"/images/userprofile/about_Tab01.png",
+    imagelink:"/images/userprofile/about_tab01.png",
+    // imagelink:"/images/userprofile/about_Tab01.png",
     monkeyimage:"/images/monkeyimages/nft_img04.jpg"
   },
   {
 trendingname:"Golden crypto",
 price: "1.004 ETH",
-imagelink:"/images/userprofile/about_Tab01.png",
+imagelink:"/images/userprofile/about_tab01.png",
 monkeyimage:"/images/monkeyimages/nft_img05.jpg"
 
 
@@ -79,7 +80,7 @@ monkeyimage:"/images/monkeyimages/nft_img05.jpg"
   {
     trendingname:"Blackcrypto",
     price:"1.005 ETH",
-    imagelink:"/images/userprofile/about_Tab01.png",
+    imagelink:"/images/userprofile/about_tab01.png",
     monkeyimage:"/images/monkeyimages/nft_img06.jpg"
   }
 ]
