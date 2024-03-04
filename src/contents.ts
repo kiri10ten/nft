@@ -8,17 +8,17 @@ export const teamdata = [{
 {
   name: "Tanu Mark",
   designation: "Developer",
-  imagesource: 'src/assets/images/userimage/team02.png'
+  imagesource: '@/assets/images/userimage/team02.png'
 },
 {
   name: "Thompson scot",
   designation: "Shakh Danial",
-  imagesource: 'src/assets/images/userimage/team03.png'
+  imagesource: '@/assets/images/userimage/team03.png'
 },
 {
   name: "Shakh Dawal",
   designation: "Crypto Advisor",
-  imagesource: 'src/assets/images/userimage/team04.png'
+  imagesource: '@/assets/images/userimage/team04.png'
 }
 ]
 

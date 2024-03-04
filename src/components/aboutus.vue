@@ -1,7 +1,7 @@
 <template>
 
 <div class="aboutusdiv">
-<p class="aboutustitle">Know About Us</p>
+<p class="aboutustitle"> About Us</p>
 <h1>TOP RATED STREAMERS</h1>
       
 <img class="imageaboutus" src="@/assets/images/aboutus/title_shape.svg">
