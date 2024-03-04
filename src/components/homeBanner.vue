@@ -18,16 +18,12 @@
 
     display: flex;
     gap: 10rem;
-    
-
-
 }
 
 .gaming-banner-left{
     margin-top: 146px;
     margin-left: 20px;
-    
-    
+   
 }
 .heading-subtitle {
 

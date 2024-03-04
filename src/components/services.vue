@@ -25,7 +25,7 @@
 </template>
 <script setup lang="ts">
 
-import  {services} from '/src/contents'
+import  {services} from '../contents'
 
 
 
