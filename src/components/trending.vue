@@ -4,7 +4,7 @@
         <div class="full" v-for="trend in trendingcarddata">
 
             <div class="topleftwrapper">
-                {{ trend }}
+                
                 <img class="imagecard" :src="trend.imagelink">
                 <div>
                     <p class="trendingname">{{ trend.trendingname }}</p>
