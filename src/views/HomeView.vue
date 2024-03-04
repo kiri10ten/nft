@@ -60,21 +60,21 @@ const carddata = [
     creator_name: 'Alex max',
     tag: 'creator',
     nft_price: '1.002ETH',
-    imagesrc: '~/images/gamelogo/forestgaming.jpg'
+    imagesrc: '/images/gamelogo/forestgaming.jpg'
   },
   {
     name: 'Forest princess',
     creator_name: 'Alex max',
     tag: 'creator',
     nft_price: '1.002ETH',
-    imagesrc: '~/images/gamelogo/girlfirefly.jpg'
+    imagesrc: '/images/gamelogo/girlfirefly.jpg'
   },
   {
     name: 'girl firefly art ',
     creator_name: 'Alex max',
     tag: 'creator',
     nft_price: '1.002ETH',
-    imagesrc: '~/images/gamelogo/wolf_gaming.jpg'
+    imagesrc: '/images/gamelogo/wolf_gaming.jpg'
   }
 ]
 
