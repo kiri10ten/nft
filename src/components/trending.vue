@@ -1,7 +1,14 @@
 <template>
     <h1> TOP TRENDING 🔥</h1>
+
+<swiper-container
+:slides-per-view="3"
+:swiper-button-prev="true">
+
+<swiper-slide v-for="trend in trendingcarddata">
+
     <div class="fulltrendingwrapper">
-        <div class="full" v-for="trend in trendingcarddata">
+        <div class="full" >
 
             <div class="topleftwrapper">
                 
@@ -26,16 +33,20 @@
             </div>
         </div>
     </div>
+
+</swiper-slide>
+</swiper-container>
+
+     
+    
 </template>
 
 
 <script setup lang="ts">
 
 import { trendingcarddata } from '@/contents';
-const props =defineProps(
+import { SwiperSlide } from 'swiper/vue';
 
-
-)
 
 </script>
 

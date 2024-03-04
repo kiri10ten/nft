@@ -183,6 +183,9 @@ navbar-nav {
   gap: 1.5rem;
 }
 
+.dropdown-toggle::after{
+  border: none;
+}
 .side-nav {
   display: flex;
 }

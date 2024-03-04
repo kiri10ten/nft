@@ -82,6 +82,13 @@ monkeyimage:"/images/monkeyimages/nft_img05.jpg"
     price:"1.005 ETH",
     imagelink:"/images/userprofile/about_tab01.png",
     monkeyimage:"/images/monkeyimages/nft_img06.jpg"
+  },
+
+  {
+    trendingname:"LuckCrypto",
+    price:"1.005 ETH",
+    imagelink:"/images/userprofile/about_tab01.png",
+    monkeyimage:"/images/monkeyimages/nft_img07.jpg"
   }
 ]
 
