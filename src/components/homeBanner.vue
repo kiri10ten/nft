@@ -7,7 +7,7 @@
             <RouterLink to="/contact" class="sign-button"> Contact Us</RouterLink>
         </div>
         <div>
-            <img  class="fight-logo" src="../assets/images/defeat.png" alt="">
+            <img  class="fight-logo" src="/images/defeat.png" alt="">
         </div>
         
     </div>

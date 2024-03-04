@@ -4,19 +4,19 @@
 <p class="aboutustitle"> About Us</p>
 <h1>TOP RATED STREAMERS</h1>
       
-<img class="imageaboutus" src="@/assets/images/aboutus/title_shape.svg">
+<img class="imageaboutus" src="/images/aboutus/title_shape.svg">
 <div>
 <RouterLink class="routercontent" to="/"> <button class="button-again">BUY HERO</button></RouterLink>
 <RouterLink class="routercontent" to="/"> <button class="button-again">BUY NFTS</button></RouterLink>
 </div>
 
 <div class="immages">
-<img src="../assets/images/userprofile/about_tab01.png">
-<img src="../assets/images/userprofile/about_tab02.png">
-<img src="../assets/images/userprofile/about_tab03.png">
-<img src="../assets/images/userprofile/about_tab04.png">
-<img src="../assets/images/userprofile/about_tab05.png">
-<img src="../assets/images/userprofile/about_tab06.png">
+<img src="/images/userprofile/about_tab01.png">
+<img src="/images/userprofile/about_tab02.png">
+<img src="/images/userprofile/about_tab03.png">
+<img src="/images/userprofile/about_tab04.png">
+<img src="/images/userprofile/about_tab05.png">
+<img src="/images/userprofile/about_tab06.png">
 
 
 

@@ -59,7 +59,7 @@ const props =defineProps(
 
 }
 .full{
-    background-image: url('../assets/images/background/trendnft_img.png');
+    background-image: url('/images/background/trendnft_img.png');
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 27px;

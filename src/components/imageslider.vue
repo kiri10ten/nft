@@ -9,13 +9,13 @@
       @slideChange="slider"
       :class="{ animate__animated:pop  , animate__lightSpeedInLeft:pop }"
           >
-      <swiper-slide><img src="../assets/images/gameimage/gallery02.jpg" alt="">
+      <swiper-slide><img src="/images/gameimage/gallery02.jpg" alt="">
       <p>PUBG TOURNAMENT</p></swiper-slide>
-      <swiper-slide><img src="../assets/images/gameimage/gallery03.jpg">
+      <swiper-slide><img src="/images/gameimage/gallery03.jpg">
       <P> ASSASIANS CREED</P></swiper-slide>
-      <swiper-slide><img src="../assets/images/gameimage/gallery04.jpg">
+      <swiper-slide><img src="/images/gameimage/gallery04.jpg">
       <P>WORLD OF WARCRAFT</P></swiper-slide>
-      <swiper-slide><img src="../assets/images/gameimage/gallery05.jpg">
+      <swiper-slide><img src="/images/gameimage/gallery05.jpg">
       <P> THE CHANT S.2</P></swiper-slide>
 
     </swiper>

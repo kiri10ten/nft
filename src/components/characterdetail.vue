@@ -1,7 +1,7 @@
 <template>
     <div class="characterdetailwrapper">
         <div>
-            <img src="../assets/images/about_img01 (1).jpg" />
+            <img src="/images/about_img01 (1).jpg" />
         </div>
         <div class="rightcontent">
         <div class="sidewrapper">

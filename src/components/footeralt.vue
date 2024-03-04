@@ -2,15 +2,15 @@
 <div  class="footerwrapper">
 
 <div class="footerdivision1">
-<img   src="../assets/images/logo.png" class="logo">
+<img   src="/images/logo.png" class="logo">
 <p>Lorem ipsum dolor sitamet consectur adipiscing Duis esollici tudin augue euismod. Nulla ullam dolor sitamet consectetur</p>
 
 <p class="">Active <span>with us</span></p>
 <div class="socials">
-<img src="../assets/images/socials/discord.png">
-<img src="../assets/images/socials/instagram.png">
-<img src="../assets/images/socials/telegram.png" alt="">
-<img src="../assets/images/socials/twitter.png" alt="">
+<img src="/images/socials/discord.png">
+<img src="/images/socials/instagram.png">
+<img src="/images/socials/telegram.png" alt="">
+<img src="/images/socials/twitter.png" alt="">
     
 </div>
 

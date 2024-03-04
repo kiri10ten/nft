@@ -5,11 +5,11 @@
   
 <div >
 <h1>WE ARE DEVELOPER ERN NFT GAMING</h1>
-<img class="rotation"   src="/src/assets/images/socials/video-calling.png">
+<img class="rotation"   src="/images/socials/video-calling.png">
 </div>
 <div class="images">
-<img src="/src/assets/images/aboutimages/aboutimage.jpg" alt="">
-<img src="/src/assets/images/aboutimages/aboutimage2.jpg" alt="">
+<img src="/images/aboutimages/aboutimage.jpg" alt="">
+<img src="/images/aboutimages/aboutimage2.jpg" alt="">
 
 
 

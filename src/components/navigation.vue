@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <RouterLink to="/" class="navbar-brand" href="#">
-        <img class="logo" src="../assets/images/logo.png" alt="" />
+        <img class="logo" src="/images/logo.png" alt="" />
       </RouterLink>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"

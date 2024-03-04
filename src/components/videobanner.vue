@@ -10,7 +10,7 @@
 
 <style scoped>
 .videowrapper{
-    background-image: url("../assets/images/background/video_bg.jpg");
+    background-image: url("/images/background/video_bg.jpg");
     text-align: center;
     height: 500px;
     background-attachment: fixed;
