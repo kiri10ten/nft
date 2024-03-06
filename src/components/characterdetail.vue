@@ -1,7 +1,7 @@
 <template>
     <div class="characterdetailwrapper">
         <div>
-            <img src="/images/about_img01 (1).jpg" />
+            <img class="gameimage" src="/images/about_img01 (1).jpg" />
         </div>
         <div class="rightcontent">
         <div class="sidewrapper">
@@ -106,7 +106,8 @@
 }
 
 
-
+.gameimage{
+    width:100%;
   
-}
+}}
 </style>

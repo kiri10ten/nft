@@ -2,6 +2,7 @@
   <div class="card-wrapper">
     <div class="card-wrapper-item">
       <div class="card-wrapper-outer">
+        <div class="">
         <div class="image">
           <img :src="imagelink" alt="" />
         </div>
@@ -14,6 +15,8 @@
 
             <span class="creator"> creator</span>
           </div>
+
+        </div>
           <div class="pricecard-wrapper">
             <p>{{ price }}</p>
             <button class="yellow-button">
@@ -56,6 +59,8 @@ defineProps({
   width: 100%;
   border-radius: 5px;
   background-color: #121a23;
+ 
+  
 }
 
 .card-wrapper-outer {
@@ -63,6 +68,8 @@ defineProps({
   gap: 2rem;
   border-radius: 5px;
   background-color: #121a23;
+  display: flex;
+  flex-direction: column;
 }
 
 .creator-badge {
