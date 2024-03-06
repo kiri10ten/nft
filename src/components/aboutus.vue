@@ -5,7 +5,7 @@
 <h1>TOP RATED STREAMERS</h1>
       
 <img class="imageaboutus" src="/images/aboutus/title_shape.svg">
-<div>
+<div class="decoratedbutton">
 <RouterLink class="routercontent" to="/"> <button class="button-again">BUY HERO</button></RouterLink>
 <RouterLink class="routercontent" to="/"> <button class="button-again">BUY NFTS</button></RouterLink>
 </div>
@@ -33,8 +33,8 @@
     text-align: center;
     align-items: center;
 }
-
-.aboutustitle{
+.aboutustitl
+e{
 color:#45f882; 
 font-size: 14px;
 letter-spacing: 2px;
@@ -46,18 +46,31 @@ font-weight: 500;
 }
 
 .immages{
-    display: block;
-    gap: 0.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
 }
 
 .aboutusdiv{
-    padding: 10px;
+    padding: 92px;
     display: block;
     text-align: center;
 
     
 }
 
+.aboutusdiv>:nth-child(1){
+    padding-bottom: 2px;
+}
+.aboutusdiv>:nth-child(4){
+    padding-bottom: 46px;
+    padding-top:23px;
+}
+
+
+/* .aboutusdiv > *{
+    padding: 5px;
+} */
 
 .routercontent{
 
@@ -65,6 +78,7 @@ font-weight: 500;
     color: white;
     border:rgb(180, 252, 178);
     border-style:border;
+    display: contents;
 }
 
 .routercontent::after{
@@ -92,4 +106,12 @@ display: block;
 
     
 }
+
+.decoratedbutton{
+    display: flex;
+   justify-content: center;
+}
+
+
+
 </style>

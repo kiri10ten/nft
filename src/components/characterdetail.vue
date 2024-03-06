@@ -37,6 +37,7 @@
 .characterdetailwrapper {
     display: flex;
     gap: 2rem;
+    padding-bottom: 124px;
 }
 
 .upperdetailwrapper {

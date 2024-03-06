@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="team-wrapper">
     <span> Our Team Member</span>
     <p>ACTIVE TEAM MEMBERS</p>
     <div class="active-content-wrapper">
@@ -32,6 +32,11 @@ import team from './team.vue';
     text-transform: uppercase;
 }
 
+
+.team-wrapper{
+  padding-top:106px;
+  padding-bottom: 106px;
+}
 
 
 @media only screen and (max-width: 768px) {

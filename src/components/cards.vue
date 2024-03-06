@@ -100,4 +100,28 @@ defineProps({
 }
 
 
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+
+
+.card-wrapper {
+  display: flex;
+  background-color: #121a23;
+  border: 1px solid rgba(76, 76, 76, 0.2);
+  border-radius: 8px;
+  margin: 0 -105px 30px;
+  padding: 10px;
+  transition: all 0.3s ease-out 0s;
+  width: fit-content;
+}
+
+
+
+
+}
+
+
+
 </style>

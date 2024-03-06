@@ -10,7 +10,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarScroll">
-        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px">
+        <ul class="navbar-nav" style="--bs-scroll-height: 100px">
           <li class="nav-item">
             <RouterLink to="/" class="nav-link">Home</RouterLink>
           </li>
@@ -197,6 +197,32 @@ navbar-nav {
 .container-fluid {
   gap: 5rem;
 }
+
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+.heading-subtitle{
+    font-size: 80px;
+}
+
+.navbar-collapse
+{
+height: max-content;
+
+
+
+
+
+
+
+
+}
+}
+
+
+
 </style>
 <script setup lang="ts">
 import { RouterLink } from 'vue-router'
